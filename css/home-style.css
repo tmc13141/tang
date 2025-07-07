@@ -752,7 +752,7 @@ footer {
 }
 
 /* 手机尺寸 */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     body {
         /* 设置背景图片 */
         background-image: var(--background-image);
